@@ -21,3 +21,4 @@ test-driver
 *.zip
 /*.cpp
 /*.hpp
+build/
